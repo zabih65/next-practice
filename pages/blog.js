@@ -8,7 +8,7 @@ const Blog = () => {
                 salam bar zabih
             </h1>
             <Link href="/">
-                return to home page
+                return tohome page
             </Link>
         </>
     );
